@@ -9,6 +9,7 @@ The objective for this project was to build a Node.js command-line application t
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Credits](#credits)
+- [Link](#Link-to-walkthrough-video)
 - [License](#license)
 
 # User Story
@@ -48,6 +49,9 @@ THEN I exit the application, and the HTML is generated
 - NodeJS: https://nodejs.org/en/
 - Jest: https://www.npmjs.com/package/jest
 - Inquirer: https://www.npmjs.com/package/inquirer
+
+## Link To walkthrough video
+https://drive.google.com/file/d/1KN7M4sAAmXI4qY9vz9guF91ZbDzcRPFJ/view
 
 ## License
 
